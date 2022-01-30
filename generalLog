@@ -1,0 +1,26 @@
+2022-01-28 14:31:37.105222:module 'os' has no attribute 'paths'
+2022-01-28 14:32:52.875212:Error while creating Directory module 'os' has no attribute 'paths':
+2022-01-28 15:00:11.374285:existing good raw folder is deleted
+2022-01-28 15:01:52.034639:Existing good raw folder is mot avialable
+2022-01-30 13:43:18.882093:Existing good raw folder is not available
+2022-01-30 13:43:18.890086:existing bad raw folder is deleted
+2022-01-30 13:43:18.897089:Error while creating Directory module 'os' has no attribute 'paths':
+2022-01-30 13:45:41.630302:Existing good raw folder is not available
+2022-01-30 13:45:41.630302:Existing good raw folder is not available
+2022-01-30 13:45:41.637297:Error while creating Directory module 'os' has no attribute 'paths':
+2022-01-30 13:49:53.904899:Existing good raw folder is not available
+2022-01-30 13:49:53.905896:Existing good raw folder is not available
+2022-01-30 13:52:06.894581:existing good raw folder is deleted
+2022-01-30 13:52:06.895579:existing bad raw folder is deleted
+2022-01-30 13:54:36.799642:existing good raw folder is deleted
+2022-01-30 13:54:36.800644:existing bad raw folder is deleted
+2022-01-30 13:55:33.538865:existing good raw folder is deleted
+2022-01-30 13:55:33.539867:existing bad raw folder is deleted
+2022-01-30 13:55:59.645804:existing good raw folder is deleted
+2022-01-30 13:55:59.646799:existing bad raw folder is deleted
+2022-01-30 13:56:46.282595:existing good raw folder is deleted
+2022-01-30 13:56:46.283591:existing bad raw folder is deleted
+2022-01-30 13:58:42.145066:existing good raw folder is deleted
+2022-01-30 13:58:42.147060:existing bad raw folder is deleted
+2022-01-30 13:58:42.163161:Timestamp (name) is matched ,file has been moved to goodrawdata:  fraudDetection_021119920_010222.csv
+2022-01-30 15:10:09.930003:Column name is not matching , moving file to bad folder
