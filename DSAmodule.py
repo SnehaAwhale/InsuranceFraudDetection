@@ -158,18 +158,24 @@ def validationMissingcolumns():
                 if (len(datafile[column])) - (datafile[column].count())==len(datafile[column]):
                     count+=1
                     shutil.move('G:/IneuronProject/waferPractice/TrainingValidatedRowFile/Good_Raw/'+file,'G:/IneuronProject/waferPractice/TrainingValidatedRowFile/Bad_raw')
-                    logger(logPath,'Missing column found, moving data to bad file' %file)
+                    logger(logPath,'Missing column found, moving data to bad file' +str(file))
                     break
                 if count==0:
-                    logger(logPath,'Columns are not present in the file' %file)
-                    file.to_csv('G:\IneuronProject\waferPractice\TrainingValidatedRowFile\Good_Raw'+file)
+                    logger(logPath,'Columns are not present in the file'+ str(file))
+                    datafile.to_csv('G:/IneuronProject/waferPractice/TrainingValidatedRowFile/Good_Raw/'+file)
 
     except OSError:
         logger(logPath,"OSError has occured while finding  the missing columns")
+        raise OSError
+
+    except Exception as e:
+        logger(logPath, "Exception has occured while finding  the missing columns" +str(e))
+        raise e
+
+validationMissingcolumns()
 
 
-
-
+validationMissingcolumns()
 
 
 

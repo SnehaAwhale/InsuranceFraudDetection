@@ -24,3 +24,134 @@
 2022-01-30 13:58:42.147060:existing bad raw folder is deleted
 2022-01-30 13:58:42.163161:Timestamp (name) is matched ,file has been moved to goodrawdata:  fraudDetection_021119920_010222.csv
 2022-01-30 15:10:09.930003:Column name is not matching , moving file to bad folder
+2022-01-30 21:19:00.635276:validation for missing values in file has started
+2022-01-30 21:19:55.581060:validation for missing values in file has started
+2022-01-30 21:19:55.597268:Exception has occured while finding  the missing columnsnot all arguments converted during string formatting
+2022-01-30 21:20:45.909939:validation for missing values in file has started
+2022-01-30 21:20:45.921937:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:20:45.928947:Exception has occured while finding  the missing columns'str' object has no attribute 'to_csv'
+2022-01-30 21:21:50.419418:validation for missing values in file has started
+2022-01-30 21:21:50.431425:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.488663:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.501664:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.513683:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.525670:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.537683:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.550667:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.561659:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.573683:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.585660:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.597683:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.610667:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.621659:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.633660:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.646661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.658666:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.670661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.682662:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.696659:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.708670:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.720685:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.732661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.744658:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.758670:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.772662:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.787670:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.802663:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.817662:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.832664:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.844661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.859661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.875664:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.891663:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.906663:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.923661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.938665:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.954661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.967662:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-30 21:21:50.982661:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:32.897541:validation for missing values in file has started
+2022-01-31 13:09:33.033138:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.091258:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.123232:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.154259:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.182208:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.200217:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.218210:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.235235:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.253221:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.270970:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.290965:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.308972:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.326992:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.345993:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.362967:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.381963:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.398960:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.416971:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.436992:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.454963:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.476152:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.495154:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.512151:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.530151:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.547163:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.565150:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.582162:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.600151:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.619152:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.637182:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.655151:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.672167:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.690157:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.708162:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.726151:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.743152:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.761151:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.779181:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.797155:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.814160:validation for missing values in file has started
+2022-01-31 13:09:33.855184:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.874163:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.892152:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.910152:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.928163:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.946152:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.964182:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:33.982151:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.001150:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.019148:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.038181:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.056172:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.075153:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.093301:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.110284:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.129286:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.146305:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.165296:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.182305:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.201289:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.220317:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.239288:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.257316:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.276299:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.295428:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.313409:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.331398:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.350397:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.368398:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.387397:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.405400:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.423427:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.441408:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.461517:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.483522:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.501529:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.520520:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.539523:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.557519:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:09:34.576311:Columns are not present in the filefraudDetection_021119920_010222.csv
+2022-01-31 13:26:26.332859:DataTranfrom has started
+2022-01-31 13:26:26.333865:data Tranformation was not sucessfull because of [Errno 2] File b'G:\\IneuronProject\\waferPractice\\TrainingValidatedRowFile\\Good_RawfraudDetection_021119920_010222.csv' does not exist: b'G:\\IneuronProject\\waferPractice\\TrainingValidatedRowFile\\Good_RawfraudDetection_021119920_010222.csv'
+2022-01-31 13:31:58.696210:DataTranfrom has started
+2022-01-31 13:31:58.796415:Data Transition was successful
